@@ -1,0 +1,10 @@
+POST http://localhost:8080/room
+Content-Type: application/json
+
+{
+  "name": "value2",
+  "floor": 1
+}
+
+###
+
